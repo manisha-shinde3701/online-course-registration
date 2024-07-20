@@ -4,10 +4,10 @@
 
 ## Department
 
-<table>
+<table border="1">
   <thead>
     <tr>
-      <th>Column</th>
+      <th>Department</th>
     </tr>
   </thead>
   <tbody>
@@ -25,10 +25,10 @@
 
 ## Courses
 
-<table>
+<table border="1">
   <thead>
     <tr>
-      <th>Column</th>
+      <th>Courses</th>
     </tr>
   </thead>
   <tbody>
@@ -55,10 +55,10 @@
 
 ## Students Registration
 
-<table>
+<table border="1">
   <thead>
     <tr>
-      <th>Column</th>
+      <th>Students Registration</th>
     </tr>
   </thead>
   <tbody>
@@ -103,6 +103,7 @@
     </tr>
   </tbody>
 </table>
+
 
 
 
